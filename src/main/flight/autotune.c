@@ -46,6 +46,7 @@
  * Authors
  * Brad Quick - initial implementation in BradWii
  * Dominic Clifton - baseflight port & cleanup.
+ * Christian Luciani - MLR, EKF, partial rewrite 
  *
  * Autotune in BradWii thread here: http://www.rcgroups.com/forums/showthread.php?t=1922423
  *
